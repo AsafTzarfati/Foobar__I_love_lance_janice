@@ -1,4 +1,4 @@
-# Foobar__I_love_lance_janice
+# Foobar - I love lance janice
 The first challenge of Google Foobar (trying to get closer to Commander Lambda)
 
 I Love Lance & Janice
