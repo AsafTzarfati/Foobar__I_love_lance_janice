@@ -10,12 +10,6 @@ Fortunately for you, the minions aren't exactly advanced cryptographers. In thei
 
 Write a function called solution(s) which takes in a string and returns the deciphered string so you can show the commander proof that these minions are talking about ""Lance & Janice"" instead of doing their jobs.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py
-To provide a Java solution, edit Solution.java
-
 Test cases
 ==========
 Your code should pass the following test cases.
@@ -31,14 +25,3 @@ Input:
 solution.solution("Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!")
 Output:
     Yeah! I can't believe Lance lost his job at the colony!!
-
--- Java cases --
-Input:
-Solution.solution("Yvzs! I xzm'g yvorvev Lzmxv olhg srh qly zg gsv xlolmb!!")
-Output:
-    Yeah! I can't believe Lance lost his job at the colony!!
-
-Input:
-Solution.solution("wrw blf hvv ozhg mrtsg'h vkrhlwv?")
-Output:
-    did you see last night's episode?
